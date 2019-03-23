@@ -2,7 +2,7 @@
  *
  * A dual-deck DJ application for mixing Amiga MOD files.
  *
- * Based on IBXM by Martin Cameron (� 2008)
+ * Based on the PortaMod library for Processing, which is based on the IBXM Java replayer by Martin Cameron (&copy; 2008)
  *
 
 ![chipdisco screenshot](Chipdisco6_screenshot_sized.png)
