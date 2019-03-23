@@ -1,0 +1,38 @@
+# ChipdiscoDJ Config file
+
+# Give Chipdisco a practice run to see the list of available devices,
+# then use this value to store a favourite. Beware that on some systems
+# (Windows, in particular), device numbers may change if you plug a device
+# into a new port.YMMV.
+midiInput1=0
+
+midiInput2=1
+
+# MIDI note input device. If you need to use this, you'll know what it does. Same caveats as above apply here.
+midiNote=2
+
+# Crossfader curve - choose between fade (0), beatmatch (1), A-bias cut (2) and B-bias cut (3). 
+# Fade: each deck is only at full volume when fader is fully over to its side. Both decks are at 50% volume when the fader is in the middle.
+# Beatmatch: each deck is at full volume from its own side up to the middle, then fades to 0 at the opposite side. Full power from both decks when fader is in the middle.
+# A-bias cut: 80% of the fader gives 100% volume to deck A and 0% to deck B - used for very fast crossfader cuts.
+# B-bias cut: same, but the other way around.
+# Fade: if you're not beatmatching, this is probably the one you want. Each deck is at 100% volume on one side, 50% in the middle and 0% at the other side.
+# NOTE - Beatmatch doesn't work terribly well, for complicated mathematical reasons... Probably best to avoid.
+xcurve=0
+
+# I'll be honest, I've forgotten what this does. The choices, though, are 'Row 0' (0) or 'Continue' (1), which refer to pattern-change behaviours in
+# PortaMod/Chipdisco. Continue begins the new pattern at whatever the next row would have been in the old one. This allows you to keep in perfect
+# time, but sometimes sounds a little whack. Row 0 starts the new pattern at row 0, which generally sounds better but will almost certainly knock you
+# out of sync. But, y'know. Life sucks and then you die.
+slices=0
+
+# Not sure how well this works yet, but if it doesn't you can just use the load button after startup. I imagine it looks for fully-qualified pathnames.
+# Escaping the dot is presumably also important.
+deckAlist=
+deckBlist=
+
+deckAdir=
+deckBdir=
+
+// If you enable this, CPU usage might be reduced...at the cost of various visual effects.
+cpuSaver=0
