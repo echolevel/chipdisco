@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="NoteData.java" kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/echolevel/Documents/Processing/libraries/sDrop/library/sDrop.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/echolevel/Documents/Processing/libraries/controlP5/library/controlP5.jar"/>
+	<classpathentry kind="lib" path="/Users/echolevel/Documents/Processing/libraries/themidibus/library/themidibus.jar"/>
+	<classpathentry kind="lib" path="/Users/echolevel/Documents/workspace/ChipdiscoJS/commons-lang3-3.1/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/echolevel/Documents/Processing/libraries/PortaMod/library/PortaMod.jar"/>
+	<classpathentry kind="lib" path="/Users/echolevel/Documents/workspace2/ChipdiscoDJ_v6/core.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
