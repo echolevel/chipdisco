@@ -9,6 +9,21 @@
 ![chipdisco screenshot](Chipdisco6_screenshot_sized.png)
 
 
+  #### _2026 license update notes:_ 
+
+chipdisco's core replayer uses the IBXM library by Martin Cameron [(mumart/mµzik)](https://www.geocities.ws/sunet2000/):
+> IBXM is copyright © 2007 Martin Cameron, and licensed under the [BSD Licence.](http://www.opensource.org/licenses/bsd-license.php)
+
+chipdisco itself is also licensed under the [BSD License](http://www.opensource.org/licenses/bsd-license.php) 
+
+> chipdisco is copyright © 2009 Brendan O'Callaghan Ratliff, and licensed under the [BSD Licence.](http://www.opensource.org/licenses/bsd-license.php)
+>
+> 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+> 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+> THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+  
   #### _2019 update notes:_
 
  Yikes, this is a bit of a mess. Chipdisco has been
